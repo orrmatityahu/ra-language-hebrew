@@ -1,6 +1,6 @@
 {
     "name": "ra-language-hebrew",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Hebrew messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
     "main": "index.js",
     "repository": {
